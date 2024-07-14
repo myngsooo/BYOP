@@ -93,4 +93,12 @@ For more detailed information, please check [SimCSE's GitHub repo](https://githu
 
 ## Citation
 
-Please cite our paper if you use Temperature Cooldown in your work:
+```
+@inproceedings{jeong2024bootstrap,
+  title={Bootstrap Your Own PLM: Boosting Semantic Features of PLMs for Unsuperivsed Contrastive Learning},
+  author={Jeong, Yoo Hyun and Han, Myeong Soo and Chae, Dong-Kyu},
+  booktitle={Findings of the Association for Computational Linguistics: EACL 2024},
+  pages={560--569},
+  year={2024}
+}
+```
